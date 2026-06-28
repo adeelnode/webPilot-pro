@@ -25,7 +25,7 @@
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/your-username/WebPilot-Pro.git
+git clone https://github.com/adeelnode/webPilot-pro.git
 ```
 
 2. Open **Google Chrome**.
